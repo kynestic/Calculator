@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.Light.NoActionBar">
+
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator">
+        <!-- Bạn có thể thêm các tùy chỉnh cụ thể cho theme này tại đây -->
+    </style>
+</resources>
